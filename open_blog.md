@@ -1,9 +1,9 @@
 ---
 layout: openblog
-title: Open Blog
-landing-title: 'Open Blog'
+title: GSOC'23 Blogs
+landing-title: 'GSOC'23 Blogs'
 nav-menu: true
-description: Where I write about my experiences with open source software.
+description: My experiences in Google Summer Of Code.
 image: null
 author: null
 show_tile: true
