@@ -3,7 +3,7 @@ title: Final Report
 layout: post
 description: null
 image: null
-open_blog: false
+open_blog: True
 suburl: "2019/08/20/z_final_report.html"
 ---
 
