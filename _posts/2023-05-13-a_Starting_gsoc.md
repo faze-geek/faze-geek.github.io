@@ -4,7 +4,7 @@ layout: post
 description: null
 image: null
 open_blog: true
-suburl: "2023/05/13/first_blog.html"
+suburl: "2023/05/13/a_Starting_gsoc.html"
 ---
 
 I am very happy to share with you that on 4th May, 2023 I was accepted as a
