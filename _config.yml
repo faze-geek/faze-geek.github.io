@@ -2,16 +2,15 @@
 title: faze-geek
 subtitle: by HTML5 UP
 email: bhat.1@iitj.ac.in
-description: Statistics | Algorithms | Software
+description: Open Source
 baseurl: "" # the subpath of your site, e.g. /blog
 url: faze-geek.github.io
-author:
-  name: Anurag
-  street_address:
-  city: Jodhpur
-  state: Rajasthan
-  zip_code:
-  country: India
+author: Anurag
+street_address:
+city: Mumbai
+state: Maharashtra
+zip_code:
+country: India
 phone:
 
 # homepage tiles
