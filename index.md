@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Gagandeep'
+landing-title: 'Hi, my name is Anurag'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: True
 ---
 
