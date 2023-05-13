@@ -3,7 +3,7 @@ title: How I got started with Open Source
 layout: post
 description: null
 image: null
-about_me: true
+just_me: true
 suburl: "2023/05/13/open_source.html"
 ---
 
