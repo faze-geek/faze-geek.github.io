@@ -1,7 +1,7 @@
 # site settings
 title: faze-geek
 subtitle: by HTML5 UP
-email: bhat.1@iitj.ac.in
+email: anuragbhatgsoc23@gmail.com
 description: Open Source
 baseurl: "" # the subpath of your site, e.g. /blog
 url: faze-geek.github.io
@@ -28,6 +28,7 @@ linkedin_url: https://www.linkedin.com/in/anurag-bhat-7b4189228/
 pinterest_url:
 slack_url:
 twitter_url:
+email: bhat.1@iitj.ac.in
 
 # build settings
 markdown: kramdown
