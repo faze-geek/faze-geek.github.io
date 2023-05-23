@@ -1,14 +1,13 @@
 # site settings
-title: czgdp1807
+title: anutosh491
 subtitle: by HTML5 UP
-email: singh.23@iitj.ac.in
-description: Statistics | Algorithms | Software
+email: anutosh.bhat.21@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: czgdp1807.github.io
+url: anutosh491.github.io
 author:
 street_address:
-city: Jodhpur
-state: Rajasthan
+city: Mumbai
+state: Maharashtra
 zip_code:
 country: India
 phone:
@@ -20,14 +19,13 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/czgdp1807
+github_url: https://github.com/anutosh491
 gitlab_url:
 googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/czgdp1807
+linkedin_url: https://www.linkedin.com/in/anutosh-bhat-66ba961a8
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/czgdp1807
 
 # build settings
 markdown: kramdown
