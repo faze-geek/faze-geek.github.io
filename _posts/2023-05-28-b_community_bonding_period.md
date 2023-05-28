@@ -1,5 +1,5 @@
 ---
-title: Communit Bonding Period
+title: Community Bonding Period
 layout: post
 description: null
 image: null
