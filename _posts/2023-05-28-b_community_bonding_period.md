@@ -25,6 +25,6 @@ Here is some of the work I did during this period -
 
 3. **Starting the Project**
 - To be honest with the readers, I had prepared this proposal a long time ago (about a year ago) when I had my Signals and Systems course. At that time the ideas for my proposal came naturally to me. But as time went by I have forgotten stuff about control systems and it's concepts. I went through the SymPy documentation and wil need to read continuously as I code in parallel.
-- Other than that I started brainstorming ideas, which I will communicate to my mentors when the coding period starts.I made 4-5 **Github Gists** which do not have polished code but instead have chunks of ideas to build upon. You can go through them here - https://gist.github.com/faze-geek
+- Other than that I started brainstorming ideas, which I will communicate to my mentors when the coding period starts.I made 4-5 **Github Gists** which do not have polished code but instead have chunks of ideas to build upon. You can go through them here - [Github Gist](https://gist.github.com/faze-geek)
 
 All and all it was a very useful phase of me. It helped me to settle in the SymPy community as a contributor, make new connections and increase my network in the open source space. 
