@@ -1,5 +1,5 @@
 ---
-title: Week 1 
+title: Communit Bonding Period
 layout: post
 description: null
 image: null
