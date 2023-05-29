@@ -9,7 +9,7 @@ suburl: "2023/05/28/b_community_bonding_period.html"
 Hello everyone, hope this blog finds you well.
 
 As **Google Summer Of Code'23** has begun with a blast, here we are at the end of the Community Bonding Period.
-This period is a process where newly selected contributors are welcomed within the community and given an idea about how Google run GSoC. \
+This period is a process where newly selected contributors are welcomed within the community and given an idea about how Google runs GSoC. \
 In the start of this period, there was an introductory meet with Google admins who explained us about the program and the various key factors that lead to a successful project. It was followed by a contributors summit where mentors and past GSoC'ers gave speeches. Although I started this phase a little late because of my ongoing endsemester exams, I have thoroughly enjoyed this phase .
 
 Here is some of the work I did during this period - 
