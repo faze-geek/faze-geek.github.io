@@ -3,7 +3,7 @@ title: Google Summer Of Code Begins !
 layout: post
 description: null
 image: null
-just_me: true
+just_me: false
 suburl: "2023/05/14/gsoc_starts.html"
 ---
 I am very happy to share with you that on 4th May, 2023 I was accepted as a
