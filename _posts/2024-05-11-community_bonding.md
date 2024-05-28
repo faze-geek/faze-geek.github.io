@@ -25,8 +25,9 @@ Here is some of the work I did during this period -
 
 3. **Starting the Project**
 - I started out by posting my GSoC'24 proposal on github. It is important that my ideas and timeline are clearly communicated to everyone and that's the beauty of open source. You can have a look at it [here](https://github.com/faze-geek/GSoC-24-Proposals).
-- 
-- 
+- I have started brainstorming ideas with my mentors, the first modification we made to proposal was the go ahead with [xtensor](https://xtensor.readthedocs.io/en/latest/getting_started.html) over [NumCpp](https://dpilger26.github.io/NumCpp/doxygen/html/index.html). The major reason behind this is that NumCpp only supports 2D Arrays, which would greatly reduce the use cases of my project.
+- Following that I have started to integrate **xtensor** in the **gsoc-2024-dev** project. We went ahead with the approach of directly copy pasting the headers from xtensor and it's dependencies. It doesn't take up much memory space in total, helping us to maintain the lightweight nature of our project.
+- The pull request adding xtensor libraries can be viewed here: [Included headers from xtensor and xtl](https://github.com/pocketpy/gsoc-2024-dev/pull/2).
 
 All and all it was a very useful phase of me. It helped me to settle in the pocketpy community as a contributor, make new connections and increase my network in the open source space. 
 
